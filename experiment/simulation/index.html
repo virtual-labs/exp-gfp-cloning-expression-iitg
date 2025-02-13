@@ -9,9 +9,12 @@
 <body>
 	<div id="main_container">
 		<div id="left_container">
-			<div id="animation_container"></div>                             
+			<div id="animation_container">
+				<div id="temp_container">
+				</div>
+			</div>                             
 			<div id="button_controls">
-				<button id="start">Start</button>
+				<button id="start">Start Simulation</button>
 				<button id="play-all" style="display: none;">Play All</button>                        
 				<button id="prev" style="display: none;">Previous</button>
 				<button id="next" style="display: none;">Next</button>
@@ -30,6 +33,9 @@
 			<div class="controlPanel">                            
 				<button id="extra-button">Extra</button>
 				<div id="icon_container" style="display: none;">
+					<img id="button_gfp" src="./images/button_gfp.png" class="tooltip-icon" data-tooltip="GFP">
+					<img id="button_eukaryotic_vector" src="./images/button_eukaryotic_vector.png" class="tooltip-icon" data-tooltip="Eukaryotic_expression_vector">
+					<img id="button_recombinant_eukaryotic_expression" src="./images/button_recombinant_eukaryotic_expression_vector.png" class="tooltip-icon" data-tooltip="Recombinant_eukaryotic_expression_vector">
 					<img id="button_flask" src="./images/button_flask.png" class="tooltip-icon" data-tooltip="Flask">
 					<img id="button_pipette" src="./images/button_pipette.png" class="tooltip-icon" data-tooltip="Pipette">
 					<img id="button_T25_flask" src="./images/button_T25_flask.png" class="tooltip-icon" data-tooltip="T25_flask">
