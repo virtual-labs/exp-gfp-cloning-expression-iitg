@@ -24,6 +24,18 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
 export var tooltips = [
     {
+        id: 'button_gfp',
+        text: 'This represents the gene of interest,here GFP'
+    },
+    {
+        id: 'button_eukaryotic_vector',
+        text: "This figure represents a Eukaryotic Expression vector, the key components of the vector include: KanR (Kanamycin Gene): Provides resistance to kanamycin, allowing transformed cells to be selected. pBR322 Ori (Origin of Replication): Ensures replication of the plasmid in bacterial cells. f1 Ori (f1 Origin of Replication): Allows for single-stranded DNA production in the presence of helper phage. T7 Promoter: A strong promoter recognized by T7 RNA polymerase, enabling high-level transcription of the inserted gene. MCS (Multiple Cloning Site): Contains restriction enzyme recognition sites (SalI, EcoRI, BamHI) for inserting the gene of interest.T7 Terminator: Ensures proper termination of transcription."
+    },
+    {
+        id: 'button_recombinant_eukaryotic_expression',
+        text: "This image represents a recombinant eukaryotic expression vector that has been modified by cloning the GFP (Green Fluorescent Protein) gene into the Multiple Cloning Site (MCS). The presence of GFP allows for the visualization of gene expression in eukaryotic cells, as GFP emits green fluorescence when expressed"
+    },
+    {
         id: 'button_flask',
         text: 'Flasks can be used for making solutions or for holding, containing, collecting, or sometimes volumetrically measuring chemicals, samples, solutions, etc. for chemical reactions or other processes such as mixing, heating, cooling, dissolving, precipitation, boiling (as in distillation), or analysis.'
     },
