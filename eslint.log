@@ -1,0 +1,16 @@
+
+/home/runner/work/exp-gfp-cloning-expression-iitg/exp-gfp-cloning-expression-iitg/experiment/simulation/js/gfp.js
+   20:10  warning  'tooltips' is defined but never used     no-unused-vars
+   21:10  warning  'showTooltip' is defined but never used  no-unused-vars
+  104:48  warning  'event' is defined but never used        no-unused-vars
+  105:5   warning  'lottie' is not defined                  no-undef
+  161:25  warning  'lottie' is not defined                  no-undef
+  176:24  warning  'index' is defined but never used        no-unused-vars
+  177:34  warning  'reject' is defined but never used       no-unused-vars
+
+/home/runner/work/exp-gfp-cloning-expression-iitg/exp-gfp-cloning-expression-iitg/experiment/simulation/js/tooltip.js
+   1:48  warning  'event' is defined but never used  no-unused-vars
+  61:46  warning  'event' is defined but never used  no-unused-vars
+
+✖ 9 problems (0 errors, 9 warnings)
+

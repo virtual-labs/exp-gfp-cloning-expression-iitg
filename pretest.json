@@ -1,0 +1,175 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. What does GFP stand for?",
+      "answers": {
+        "a": "Green Fluorescent Protein",
+        "b": "Gene Fragment Primer",
+        "c": "General Fluorescence Protocol",
+        "d": "Genomic Fusion Product"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. What is an expression vector?",
+      "answers": {
+        "a": "A vector used for cloning and amplification of DNA sequences.",
+        "b": "A vector used for transferring proteins into bacterial cells.",
+        "c": "A vector used for labeling cells with fluorescent dyes.",
+        "d": "A vector used for studying gene regulation in eukaryotic cells."
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Which organism naturally produces GFP?",
+      "answers": {
+        "a": "Bacteria",
+        "b": "Fungi",
+        "c": "Jellyfish",
+        "d": "Plants"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Which color does GFP emit when exposed to UV or blue light?",
+      "answers": {
+        "a": "Red",
+        "b": "Green",
+        "c": "Blue",
+        "d": "Yellow"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Which technique is commonly used to visualize GFP expression in cells or tissues?",
+      "answers": {
+        "a": "Western blotting",
+        "b": "PCR amplification",
+        "c": "Fluorescence microscopy",
+        "d": "Gel electrophoresis"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. What is the role of a selectable marker in an expression vector?",
+      "answers": {
+        "a": "To facilitate the binding of RNA polymerase",
+        "b": "To enable the identification of cells that have taken up the vector",
+        "c": "To enhance the replication of the vector",
+        "d": "To fluoresce under UV light"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. Which of the following is the primary purpose of cloning the GFP gene into an expression vector?",
+      "answers": {
+        "a": "To study the function of an unknown protein",
+        "b": "To produce a fluorescent marker for monitoring gene expression",
+        "c": "To enhance the growth rate of bacteria",
+        "d": "To inhibit the growth of pathogens"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8. Which of the following is NOT a component of a typical expression vector used for GFP expression?",
+      "answers": {
+        "a": "Origin of replication",
+        "b": "Promoter",
+        "c": "Antibiotic resistance gene",
+        "d": "DNA ligase gene"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9. Why is it important to include a terminator sequence in an expression vector containing the GFP gene?",
+      "answers": {
+        "a": "To start the transcription process",
+        "b": "To stop the transcription process and ensure proper mRNA termination",
+        "c": "To enhance translation efficiency",
+        "d": "To bind transcription factors"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10. What is the advantage of using GFP as a reporter gene in molecular biology experiments?",
+      "answers": {
+        "a": "GFP is a small protein",
+        "b": "GFP fluoresces without requiring additional substrates or cofactors",
+        "c": "GFP can bind to DNA",
+        "d": "GFP enhances cell growth"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}

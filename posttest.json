@@ -1,0 +1,175 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Which method is commonly used to confirm the successful cloning of the GFP gene into the expression vector?",
+      "answers": {
+        "a": "DNA sequencing",
+        "b": "Fluorescence microscopy",
+        "c": "Flow cytometry",
+        "d": "Restriction enzyme digestion"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Which method is commonly used for the amplification of the GFP gene during cloning?",
+      "answers": {
+        "a": "Western blotting",
+        "b": "Polymerase chain reaction (PCR)",
+        "c": "DNA microarray analysis",
+        "d": "Gel electrophoresis"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. What is the purpose of a selectable marker in an expression vector used for GFP cloning?",
+      "answers": {
+        "a": "To enhance GFP fluorescence intensity",
+        "b": "To regulate the expression of GFP gene",
+        "c": "To facilitate purification of GFP protein",
+        "d": "To enable selection of cells containing the vector"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Which class of enzymes is commonly used for DNA ligation during GFP gene cloning?",
+      "answers": {
+        "a": "Polymerases",
+        "b": "Ligases",
+        "c": "Kinases",
+        "d": "Phosphatases"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Which region of the GFP gene is responsible for the protein's fluorescent properties?",
+      "answers": {
+        "a": "5' untranslated region (UTR)",
+        "b": "Exon 1",
+        "c": "Exon 2",
+        "d": "Chromophore region"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. What is the primary purpose of using an expression vector in cloning the GFP gene?",
+      "answers": {
+        "a": "To inhibit the host cell's growth",
+        "b": "To act as a vehicle to transport the foreign gene into the host cell",
+        "c": "To degrade the host cell's DNA",
+        "d": "To stop cell division in the host"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. Which method is used to monitor the cutting and joining reactions of the vector and GFP gene?",
+      "answers": {
+        "a": "PCR",
+        "b": "Northern blotting",
+        "c": "Gel electrophoresis",
+        "d": "ELISA"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8. What is the function of the ligation reaction in the cloning process?",
+      "answers": {
+        "a": "To cut the DNA into smaller pieces",
+        "b": "To join the GFP gene to the vector DNA",
+        "c": "To amplify the GFP gene",
+        "d": "To degrade the unwanted DNA"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9. What is the purpose of an origin of replication (ori) in an expression vector?",
+      "answers": {
+        "a": "To initiate transcription of the GFP gene",
+        "b": "To provide a site for restriction enzyme binding",
+        "c": "To allow the vector to replicate within the host cell",
+        "d": "To facilitate the ligation of the GFP gene into the vector"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10. Which of the following is a common method used to introduce recombinant DNA into E. coli cells?",
+      "answers": {
+        "a": "Microinjection",
+        "b": "Heat shock",
+        "c": "Southern blotting",
+        "d": "RNA interference"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
