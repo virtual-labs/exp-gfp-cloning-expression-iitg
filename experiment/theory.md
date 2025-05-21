@@ -1,13 +1,30 @@
 ### Theory
 
-Vectors are DNA molecules which are used as transporting vehicles which carries foreign gene of interest into a suitable host cell for the purpose of cloning and expression. <br>
-There are two types of vectors: <b>Cloning vectors</b> which are used to clone foreign gene and <b>expression vectors</b> which are used to transcribe a foreign gene in RNA and then translated into protein. <br>
-
-Expression vector is a plasmid specially designed for expressing foreign genes in a cell. In addition to the basic features of a typical vector like origin of replication, insertion site, selectable marker gene, etc. they have certain regulatory elements like promoters, enhancers, termination sequence, initiation site, stop codon, etc. The most critical component of an expression vector is a promoter as it is the site where RNA polymerase binds. This region is also important in regulating the rate of transcription. It is always essential for an expression vector to carry a strong promoter so that highest rate of gene expression can be achieved. In E.coli cells a promoter can be easily regulated by an inducer or repressor. Most frequently used promoters for an E.coli expression vector includes: <br>
-
-* <b>The lac promoter:</b> This promoter is important for regulating the transcription of lac z gene that codes for β-galactosidase. This can be easily induced by isopropylthiogalactoside (IPTG) by fusing a lac promoter with a target gene one can achieve IPTG dependent expression of the foreign gene.
-* <b>The trp promoter:</b> This promoter is responsible to transcribe a cluster of genes involved in tryptophan biosynthesis. It can be repressed by tryptophan itself and also it can be induced by 3-β-indoleacrylic acid.
-* <b>The tac promoter:</b> This promoter is stronger than either of the above promoters as it is a hybrid of trp and lac promoter. It can also be induced by IPTG.
-* <b>The L promoter:</b> It is a strong promoter involved in the transcription of molecule in E.coli. Mostly, the expression vector with this promoter is used with a mutant <i>E. coli</i> that synthesizes the λ repressor protein in a temperature-sensitive form.
+Gene cloning is a fundamental technique in molecular biology that involves the replication of a specific gene to produce multiple identical copies. This process uses a vector, a DNA molecule that serves as a carrier, to introduce the gene of interest into a host cell. The gene is inserted into the vector to form recombinant DNA, which is then transferred into the host. The vector replicates with the inserted gene inside the host cell, generating numerous identical copies.
 <br>
-The green fluorescent protein (GFP) encoding gene was first isolated from the bioluminescent jellyfish <i>Aequorea victoria</i>. It is a autofluorescent protein with eleven β-strands that makes up the β-barrel and an α-helix that runs through the centre. The chromophore is located in the centre of the β-barrel. This chromophore fluoresces with a peak wavelength of 508 nm (green light) when irradiated with UV or blue light (400 nm). GFP serves as an unique reporter and hence it is mostly used as a fusion tag for monitoring protein localization. GFP is usually tagged with a protein whose expression is to be tracked. In such cases the principle aim of the experiment is to investigate the sub-cellular localization of the protein of interest. Genetic engineering is used to produce vector in which the coding sequence of an uncharacterized protein say ‘X’ is coupled with a GFP coding sequence. The resulting GFP-X fusion construct is transfected into a suitable host cell, and the expression/sub-cellular location can be tracked.
+<br>
+Vectors play a central role in gene cloning and expression. These specially designed DNA molecules transport foreign genes into suitable host cells. There are two primary types:
+1. Cloning vectors, primarily used to replicate foreign DNA within a host.
+2. Expression vectors replicate the DNA and direct the transcription and translation of the inserted gene, resulting in protein production.
+
+<br>
+<br>
+Both types of vectors share basic features such as:
+An origin of replication (for autonomous replication in the host),
+Selectable markers (e.g., antibiotic resistance genes) for identifying transformed cells,
+A multiple cloning site (MCS) for gene insertion.
+However, expression vectors also include additional regulatory elements that enable and control gene expression. These include:
+A strong promoter (essential for initiating transcription),
+Enhancers and transcription terminators,
+A ribosome binding site, initiation codon, and stop codon.
+In E. coli, promoters in expression vectors are often inducible, allowing researchers to regulate gene expression using inducers (e.g., IPTG) or repressors.
+<br>
+<br>
+The Green Fluorescent Protein (GFP), first isolated from the jellyfish Aequorea victoria, emits bright green fluorescence when exposed to blue or UV light. The GFP gene has become a widely used reporter gene due to its high stability, non-toxic nature, and ease of visualisation in live cells.
+Cloning and expressing the GFP gene in E. coli or other host organisms enables researchers to:
+Monitor gene expression in real time,
+Confirm successful gene insertion and transformation.
+Track protein localisation and interactions within cells.
+<br>
+<br>
+Because GFP fluorescence is visible without additional substrates or cofactors, it is a convenient and powerful tool in molecular biology and biotechnology.
