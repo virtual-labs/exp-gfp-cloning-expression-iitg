@@ -1,1 +1,3 @@
-### Aim of the experiment
+### Aim 
+
+Studying the cloning and expression of GFP gene in the expression vector
